@@ -1,1 +1,3 @@
-Git and Github
+# Git and Github
+
+# Lab objectives
